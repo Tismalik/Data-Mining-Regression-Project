@@ -6,5 +6,5 @@
 <li> For "Arrivals", we want to predict the arrival time at the gate so we properly prepare it to receive passengers</li>
   
 <h3> Possible Application/Deployment Area: </h3>
-Predictions could also be used by an automate rooting system that finds the route through the taxiways that takes the shortest time, the least few or is the most unlikely to be disrupted.
+Predictions could also be used by an automated rooting system that finds the route through the taxiways that takes the shortest time, the least few or is the most unlikely to be disrupted.
 
